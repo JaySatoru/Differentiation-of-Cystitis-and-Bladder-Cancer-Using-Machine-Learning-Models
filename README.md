@@ -1,2 +1,2 @@
 # Differentiation-of-Cystitis-and-Bladder-Cancer-Using-Machine-Learning-Models
-This project is mainly build for accurate differentiation of cystitis and bladder cancer. Where cystitis and bladder cancer have similar symptoms like hematuria(blood in urine), Urgency, Abdominal pain, etc.,). So, this project uses ensemble methods like voting, gradient boosting, and machine learning methods like SVM, RF, KNN etc.,
+This project is mainly build for accurate differentiation of cystitis and bladder cancer. Where cystitis and bladder cancer have similar symptoms like hematuria(blood in urine), Urgency, Abdominal pain, etc.,). So, this project uses ensemble methods like voting, gradient boosting, and machine learning methods like SVM, RF, KNN etc., to differentiate between them.
